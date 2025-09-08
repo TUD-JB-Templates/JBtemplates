@@ -34,6 +34,7 @@ Negatives:
 - Connecting Github and Gitlab to comply with TUD publishing regulations
 - PDF export suboptimal
 - Public from start
+- may feel as black box approach (what is under the hood)
 
 Example book made utilizing the template: [Linear Algebra](https://interactivetextbooks.tudelft.nl/linear-algebra/)
 
