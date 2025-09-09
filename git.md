@@ -32,5 +32,5 @@ GitHub and GitLab have both advantages and disadvantages. GitLab is advised by T
 | Gitlab | Is hosted by TUD | Is terminated when one leaves TUD |
 | | Accessible by colleagues | Harder for outside collaborators |
 | | CI/CD | Pages disabled |
-| | Storage limited by TUD | TUD Backups |
-| | | Is more often down compared to GitHub|
+| | Storage limited by TUD | |
+| | TUD Backups | | Is more often down compared to GitHub|
