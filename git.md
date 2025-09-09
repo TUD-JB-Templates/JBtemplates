@@ -4,7 +4,9 @@ Git is a version control system that helps you track changes in your files and c
 
 Git provides thus a way to synchronize files between a server and local stored files. Other servers can host the webpage (the Jupyter Book) by requesting the files and utilizing a build script.
 
-Both GitHub and GitLab provide an online integrated development environment: an online version of VSC. This approach is advised for those new to git, python, and programming.
+Both GitHub and GitLab provide an online integrated development environment: an online version of VSC. This approach (coding in the online IDE) is advised for those new to git, python, and programming.
+
+Below is a description of both GitHub and GitLab - TU Delft and subsequently an oversight of the (dis)advantages of each these systems. Know that we are able to connect these two (synchronize between them).
 
 ## GitHub
 GitHub is a web-based platform for hosting and collaborating on Git repositories. Owned by Microsoft, GitHub offers tools for code review, issue tracking, and project management, making it popular for open-source and private projects alike. One valuable feature is GitHub Pages, which allows you to publish static websites directly from a repository, making it easy to share documentation, portfolios, or project pages.
@@ -34,3 +36,4 @@ GitHub and GitLab have both advantages and disadvantages. GitLab is advised by T
 | | CI/CD | Pages disabled |
 | | Storage limited by TUD | |
 | | TUD Backups | | Is more often down compared to GitHub|
+| | | Various faculties have their own GL and policies | 

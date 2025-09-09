@@ -115,12 +115,13 @@ Example book made utilizing the template: [Introducing Classical Mechanics & Spe
 
 ## Which one than?
 
+The choice for any of these templates depends on the user. If you want to engage readers with python code which is editable in the browser, don't choose JB2 (yet). If you also want to make a high quality LaTeX or Typst pdf, go for JB2. If you want to understand the whole JB technology and if you are very keen what to use (dependencies) go for the Jupyter Demo Book. If you are okay with a kind of black box where everything is done already for you, if you have hardly any experience with VSC, git and Python, go for the Teachbooks template. Below summarized:
 
 ```{table}
 | Teachbooks | Jupyter Demo Book | Jupyter Book 2 |
 | --- | --- | --- |
 | JB 1 | JB 1 | JB 2 |
-| Customized sphinx extension | Traditional Jupyter packages | |
-| Full control / adaptable / customizable layout through extensions | Full control through own code  | Less control |
-| | | |
+| Customized sphinx extension | Traditional Jupyter packages | JS plugins|
+| Full control o / adaptable / customizable layout through extensions | Full control through own code and picking dependencies  | Less control |
+| PDF from script | PDF from print | PDf from Typst / LaTeX conversion |
 ```
