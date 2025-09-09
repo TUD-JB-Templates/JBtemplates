@@ -17,14 +17,21 @@ There are two main versions: JB1 (the original) and JB2 (the current, more featu
 
 At Delft University of Technology, we actively support the creation and publication of Jupyter Books, providing guidance and infrastructure for both authors and readers. The following chapters will explore these tools and workflows in more detail.
 
+
+```{tip} Try the Python code below
+:class: dropdown
+
+Click the ON-button at the top right and subsequently the play button to see the output of the Python code below.
+```
+
 ```{code-cell} python
 :tag: hide-input
 
 import matplotlib.pyplot as plt
 import numpy as np
 
-x = np.linspace(0,2*np.pi,50)
-y = np.sin(2*np.pi*x)
+x = np.linspace(0,2*np.pi,100)
+y = np.sin(2*np.pi*np.rad2deg(x))
 z = np.cos(2*np.pi*x)
 
 plt.figure()

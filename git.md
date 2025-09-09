@@ -25,7 +25,7 @@ Alternatively, Visual Studio Code (VSC) includes built-in Git functionality. Wit
 
 GitHub and GitLab have both advantages and disadvantages. GitLab is advised by TUD unless many external users are involved. However, as GitLab disable pages a Jupyter Book should be build locally.
 
-| | Positive | Negatives |
+| | Positives | Negatives |
 |---|---|---| 
 |Github | GitHub pages enables to see content in website | Is property of MicroSoft
 | | Allows users out side TUD to easily engage| No backup at TUD |
@@ -34,6 +34,5 @@ GitHub and GitLab have both advantages and disadvantages. GitLab is advised by T
 | Gitlab | Is hosted by TUD | Is terminated when one leaves TUD |
 | | Accessible by colleagues | Harder for outside collaborators |
 | | CI/CD | Pages disabled |
-| | Storage limited by TUD | |
-| | TUD Backups | | Is more often down compared to GitHub|
-| | | Various faculties have their own GL and policies | 
+| | Storage limited by TUD | Various faculties have their own GL and policies |
+| | TUD Backups |  Is more often down compared to GitHub|

@@ -44,8 +44,6 @@ Example book made utilizing the template: [A Brief Introduction to Biochemistry:
 
 - Gitlab
 
-
-
 ## Teachbooks
 The [Teachbooks template](https://tud-jb-templates.github.io/TB) (developed by Tom van Woudenberg, Robert Lanzafame and Dennis den Ouden-van der Horst) is based on the Jupyter Book 1 software and utilizes Microsoft Github. It is recommended to install full software to run the book locally, but is not required through the use of GitHub Pages. 
 
@@ -56,7 +54,7 @@ The [Teachbooks template](https://tud-jb-templates.github.io/TB) (developed by T
 
 **Negatives:**
 - Understanding all possibilities and functionalities
-- Connecting Github and Gitlab to comply with TUD publishing regulations
+- Connecting Github and Gitlab to comply with TUD publishing regulations (but possible)
 - PDF export suboptimal
 - Public from start
 - may feel as black box approach (what is under the hood)
@@ -82,7 +80,7 @@ Example book made utilizing the template: [Linear Algebra](https://interactivete
 
 
 ## Jupyter Book 2
-The [Jupyter Book 2 template](https://github.com/TUD-JB-Templates/JB2) (developed by Freek Pols) is based on the Jupyter Book 2 software and utilizes Microsoft GitHub. 
+The [Jupyter Book 2 template](https://github.com/TUD-JB-Templates/JB2) (under development by Freek Pols) is based on the Jupyter Book 2 software and utilizes Microsoft GitHub. 
 
 **Positives:**
 - High quality pdf with ease
@@ -93,6 +91,7 @@ The [Jupyter Book 2 template](https://github.com/TUD-JB-Templates/JB2) (develope
 - Not all functionality from JB1 is available (yet)
 - In browser Python is not editable 
 - Not full control of style 
+- Public from start if not built locally
 
 ### Requirements
 

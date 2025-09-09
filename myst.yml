@@ -2,18 +2,24 @@
 version: 1
 project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
-  title: Template
+  title: TUD Jupyter Book Templates
   # description:
   # keywords: []
   authors: [Freek Pols]
   github: https://github.com/JBtemplates # Change this URL to your GitHub repository
-  # downloads:
-  #   - id: output-pdf
-  # exports:
-  #   - format: pdf
-  #     template: plain_latex_book 
-  #     output: exports/book.pdf
-  #     id: output-pdf
+  jupyter:
+    lite: true
+
+  downloads:
+    - id: output-pdf
+  exports:
+    - format: pdf
+      template: lapreprint-typst #plain_latex_book 
+      output: exports/TUD_JB_temp.pdf
+      id: output-pdf
+    # - format: docx
+    #   output: exports/TUD_JB_temp.docx
+
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc: 
     - file: index.md
@@ -21,7 +27,8 @@ project:
     - file: start.md
     - file: git.md
     - file: which.md
-    
+    - file: todo.md
+
 site:
   template: book-theme
   options:
