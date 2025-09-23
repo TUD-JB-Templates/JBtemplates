@@ -80,7 +80,7 @@ Example book made utilizing the template: [Linear Algebra](https://interactivete
 
 
 ## Jupyter Book 2
-The [Jupyter Book 2 template](https://github.com/TUD-JB-Templates/JB2) (under development by Freek Pols) is based on the Jupyter Book 2 software and utilizes Microsoft GitHub. 
+The [Jupyter Book 2 template](https://tud-jb-templates.github.io/JB2/) (under development by Freek Pols) is based on the Jupyter Book 2 software and utilizes Microsoft GitHub. 
 
 **Positives:**
 - High quality pdf with ease
