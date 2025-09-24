@@ -26,8 +26,8 @@ project:
     - file: introduction.md
     - file: start.md
     - file: process.md
-    - file: git.md
     - file: which.md
+    - file: git.md
     - file: todo.md
 
 site:

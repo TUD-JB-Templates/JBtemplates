@@ -23,7 +23,7 @@ At TU Delft, we encourage open access publishing. This means that you make your 
 Consider what license fits your needs best, and when to publish your materials publicly. There is an option to publish your materials behind single sign-on (SSO), so only TU Delft students and staff can access them.
 
 ## Level of expertise
-Creating Interactive Learning Materials with Jupyter Book technology requires some level of expertise in various areas. The source files are either Markdown or Jupyter Notebook files (or tex files for JB2). Interactive materials can be made using Python or Javascript. Your materials will be version controlled using Git. Hence, what support you need depends on your level of expertise in these areas.
+Creating Interactive Learning Materials with Jupyter Book technology requires some level of expertise in various areas. The source files are either Markdown or Jupyter Notebook files (or tex files for JB2). Interactive materials can be made using Python or Javascript. Your materials will be version controlled using [Git](./git.md). Hence, what support you need depends on your level of expertise in these areas.
 
 ## Copyrights and plagiarism
 When creating educational materials, it is important to consider copyrights and plagiarism. Ensure that you have the right to use any materials you include in your work, such as images, videos, or text. If you are using materials created by others, make sure to give proper attribution and follow any licensing requirements. Additionally, be sure to properly cite any sources you use in your work to avoid plagiarism.

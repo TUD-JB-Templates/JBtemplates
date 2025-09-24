@@ -1,6 +1,6 @@
 # Which template should I use?
 
-We offer three templates, each with its own (dis)advantages. We specify below the characteristics in order to help you pick the 'best' template that fits your needs and level of expertise.
+We offer three templates, each with its own pros and cons. We specify below the characteristics in order to help you pick the 'best' template that fits your needs and level of expertise.
 
 All templates provide the same starting chapters, telling a little about the markdown language, and providing some exercises to help you get started.
 
