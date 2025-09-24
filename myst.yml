@@ -2,7 +2,7 @@
 version: 1
 project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
-  title: TUD Jupyter Book Templates
+  title: TUD's introduction to Jupyter Book Based Interactive Teaching Material
   # description:
   # keywords: []
   authors: [Freek Pols]
@@ -25,6 +25,7 @@ project:
     - file: index.md
     - file: introduction.md
     - file: start.md
+    - file: process.md
     - file: git.md
     - file: which.md
     - file: todo.md
@@ -33,7 +34,7 @@ site:
   template: book-theme
   options:
     favicon: favicon.ico
-    logo: Figuren/site_logo.png
+    logo: Figuren/logo.png
     folders: false
   actions:
     - title: report issue

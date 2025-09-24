@@ -1,5 +1,5 @@
 ---
-title: Template
+title: TUD's introduction to Jupyter Book Based Interactive Teaching Material
 site:
   hide_outline: true
   hide_toc: true
@@ -8,7 +8,7 @@ site:
 
 <div style="text-align: center">
 
-# Template
+# TUD's introduction to Jupyter Book Based <br> Interactive Teaching Material
 
 </div>
 

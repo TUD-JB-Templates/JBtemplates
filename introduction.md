@@ -13,7 +13,7 @@ Jupyter Book is an open-source tool designed to create interactive teaching mate
 Once started with Jupyter Books, you might get hooked!
 ```
 
-There are two main versions: JB1 (the original) and JB2 (the current, more feature-rich version). Both support integration with tools like Visual Studio Code (VSC) for editing, Git for version control and collaboration, and Python for interactive code examples.
+There are two main versions: JB1 (based on Sphinx) and JB2 (utilizing the MyST-engine). Both support integration with tools like Visual Studio Code (VSC) for editing, Git for version control and collaboration, and Python for interactive code examples.
 
 At Delft University of Technology, we actively support the creation and publication of Jupyter Books, providing guidance and infrastructure for both authors and readers. The following chapters will explore these tools and workflows in more detail.
 
@@ -40,6 +40,4 @@ plt.plot(x,z,'r--')
 plt.xlabel('$x$')
 plt.ylabel('$y$')
 plt.show()
-
-
 ```

@@ -8,11 +8,11 @@ All templates provide the same starting chapters, telling a little about the mar
 ## Jupyter Demo Book
 The [Jupyter Demo Book template](https://tud-jb-templates.github.io/OIT-JB/) (adapted from the original Jupyter Book templated by Timon Idema) is based on the Jupyter Book 1 software and utilizes TU Delft Gitlab. Full software installation is required to produce an output.
 
-**Positives:**
+**pro's:**
 - bare bone version
 - software developed and support by JB1 developers
 
-**Negatives:**
+**cons:**
 - Full software installation to see output
 - No full control unless coded yourself
 - Difficult to set up
@@ -47,12 +47,12 @@ Example book made utilizing the template: [A Brief Introduction to Biochemistry:
 ## Teachbooks
 The [Teachbooks template](https://tud-jb-templates.github.io/TB) (developed by Tom van Woudenberg, Robert Lanzafame and Dennis den Ouden-van der Horst) is based on the Jupyter Book 1 software and utilizes Microsoft Github. It is recommended to install full software to run the book locally, but is not required through the use of GitHub Pages. 
 
-**Positives:**
+**pro's:**
 - Quick start
 - Additional functionality built by teachers
 - Full customizable through CSS
 
-**Negatives:**
+**cons:**
 - Understanding all possibilities and functionalities
 - Connecting Github and Gitlab to comply with TUD publishing regulations (but possible)
 - PDF export suboptimal
@@ -82,12 +82,12 @@ Example book made utilizing the template: [Linear Algebra](https://interactivete
 ## Jupyter Book 2
 The [Jupyter Book 2 template](https://tud-jb-templates.github.io/JB2/) (under development by Freek Pols) is based on the Jupyter Book 2 software and utilizes Microsoft GitHub. 
 
-**Positives:**
+**pro's:**
 - High quality pdf with ease
 - Newest technology, still in development
 - Used in science publication 
 
-**Negatives:**
+**cons:**
 - Not all functionality from JB1 is available (yet)
 - In browser Python is not editable 
 - Not full control of style 
