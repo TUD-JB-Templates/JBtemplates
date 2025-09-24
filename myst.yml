@@ -38,4 +38,4 @@ site:
     folders: false
   actions:
     - title: report issue
-      url: https://github.com/TUD-JB-Templates/JBtemplates
+      url: https://github.com/TUD-JB-Templates/JBtemplates/issues
